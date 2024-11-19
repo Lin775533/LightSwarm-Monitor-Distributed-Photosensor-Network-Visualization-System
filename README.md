@@ -364,8 +364,14 @@ void broadcastReading() {
 // Master LED flashing rate varies with light level
 // Non-master LEDs remain off
 ```
+## 4. Example
+### 4.1 Master Monitor Window
+![image](./Images/Master.png)
 
-## 4. Key Features
+### 4.2 Slave Monitor Window
+![image](./Images/Slave.png)
+
+## 5. Key Features
 1. Autonomous master election based on light readings
 2. Self-stabilizing network through continuous reading comparison
 3. Visual feedback through LED patterns
