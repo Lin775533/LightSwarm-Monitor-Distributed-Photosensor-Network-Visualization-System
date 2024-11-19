@@ -179,10 +179,12 @@ The system maintains several key data structures:
 
 Log files are created with timestamp filenames (e.g., `lightswarm_20240118_123456.log`) and contain CSV-formatted data with headers.
 
-### Example Visualization
+## 6. DEMO
+
+### 6.1 Visualization of the System
 ![image](./Images/Picture1.png)
 
-### Example Log File Output
+### 6.2 Example Log File Output
 ```
 === New Session Started at 2024-01-18 12:34:56 ===
 Format: timestamp, device_id, ip_address, reading, master_duration
