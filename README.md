@@ -366,7 +366,7 @@ void broadcastReading() {
 ```
 ## 4. Example
 ### 4.1 Master Monitor Window
-
+![image](./Images/Master.png)
 ### 4.2 Slave Monitor Window
 ![image](./Images/Slave.png)
 
