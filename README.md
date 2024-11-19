@@ -34,7 +34,6 @@
 - 1× Onboard LEDs per ESP8266
 - 1× Push Button (Reset Control)
 - 3× Photoresistors (Light Sensing)
-- 
 ## 2. Hardware Configuration
 ### RaspberryPi Setup
 ![image](./Images/Pi_Configuration.png)
