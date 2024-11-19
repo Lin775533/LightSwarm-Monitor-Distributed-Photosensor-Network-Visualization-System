@@ -36,6 +36,8 @@
 - 3× Photoresistors (Light Sensing)
 - 
 ## 2. Hardware Configuration
+### RaspberryPi Setup
+![image](./Images/Pi_Configuration.png)
 ```
 LED Connections:
 ┌─────────────┬──────────────┬─────────┐
@@ -48,6 +50,9 @@ LED Connections:
 │ Reset Button│ GPIO15       │ Pull-DN │
 └─────────────┴──────────────┴─────────┘
 ```
+
+### ESP8266 Setup
+![image](./Images/ESP8266.png)
 ```
 Sensor Circuit:
 ┌─────────────┬──────────────┬─────────┐
