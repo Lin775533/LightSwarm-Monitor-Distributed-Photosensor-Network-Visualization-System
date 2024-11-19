@@ -26,6 +26,15 @@
                    +--------------------+
 
 ```
+
+### 1.1 Components Used
+- 1× Raspberry Pi (Controller)
+- 3× ESP8266 (Sensor Nodes)
+- 7× LEDs + Resistors (Pi Display)
+- 1× Onboard LEDs per ESP8266
+- 1× Push Button (Reset Control)
+- 3× Photoresistors (Light Sensing)
+- 
 ## 2. Hardware Configuration
 ```
 LED Connections:
